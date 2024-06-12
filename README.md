@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-This project guides you through creating an Active Directory home lab environment using Oracle VirtualBox. It's designed to help you understand the fundamentals of Active Directory and Windows networking.
+Project guides you through creating an Active Directory Home Lab environment using Oracle Virtual Box and creating users via PowerShell. It's designed to help you understand the fundamentals of Active Directory and Windows networking.
 <br />
 
 
@@ -69,6 +69,27 @@ Installing and configuring RAS / NAT: <br/>
 Setting up / configuring DHCP Scope: <br/>
 <img src="https://imgur.com/ZPibCyR.png" height="60%" width="60%" alt="AD home lab"/>
 <br />
-: <br/>
-<img src=".png" height="60%" width="60%" alt="AD home lab"/>
+Creating +1K users: <br/>
+<img src="https://imgur.com/yUXSsuo.png" height="60%" width="60%" alt="AD home lab"/>
+<img src="https://imgur.com/SZSHCCD.png" height="60%" width="60%" alt="AD home lab"/>
+<br />
+Creating a new VM called CLIENT1(The User): <br/>
+<img src="https://imgur.com/WEQkBb3.png" height="60%" width="60%" alt="AD home lab"/>
+<br />
+CLIENT1 is pinging to the internet: <br/>
+<img src="https://imgur.com/lKq1oc2.png" height="60%" width="60%" alt="AD home lab"/>
+<br />
+Join CLIENT1 to DC: <br/>
+<img src="https://imgur.com/9JWczQk.png" height="60%" width="60%" alt="AD home lab"/>
+<br />
+Client computer requested an address in which the DHCP server gave: <br/>
+<img src="https://imgur.com/tQI0r9n.png" height="60%" width="60%" alt="AD home lab"/>
+<br />
+Shows that CLIENT1 is a member of the domain: <br/>
+<img src="https://imgur.com/oYWfxOu.png" height="60%" width="60%" alt="AD home lab"/>
+<br />
+Logging in with a random user that was genearted: <br/>
+<img src="https://imgur.com/hSYKQix.png" height="60%" width="60%" alt="AD home lab"/>
+<img src="https://imgur.com/sQFVwBg.png" height="60%" width="60%" alt="AD home lab"/>
+<img src="https://imgur.com/ppqQ8HA.png" height="60%" width="60%" alt="AD home lab"/>
 <br />
