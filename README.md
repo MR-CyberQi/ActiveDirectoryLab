@@ -32,7 +32,7 @@ Server 2022: <br/>
 <img src="https://imgur.com/REN9tTk.png" height="40%" width="40%" alt="Downloads"/>
 <br />
 
-<h2>Network Map:<h2/>
+<h2>Logical Diagram:<h2/>
 <p align="center">
 Visual representation of what we will be doing for this lab <b>
   <img src="https://imgur.com/qlsMQkR.png" height="60%" width="60%" alt="Downloads"/>
@@ -47,7 +47,7 @@ Create our Virtual Machines: <br/>
 Insert Guest Additions Cd Image:  <br/>
 <img src="https://imgur.com/9kHHx4i.png" height="60%" width="60%" alt="AD home lab"/>
   <br/>
-Setting up IP addressing (refer to diagram): <br/>
+Setting up IP addressing: <br/>
 <img src="https://imgur.com/ffqTK9g.png" height="60%" width="60%" alt="AD home lab"/>
   <br />
 Renaming the Pc: <br/>
