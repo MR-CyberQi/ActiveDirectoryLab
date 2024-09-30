@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-Project guides you through creating an Active Directory Home Lab environment using Oracle Virtual Box and creating users via PowerShell. It's designed to help you understand the fundamentals of Active Directory and Windows networking.
+Creating an Active Directory Home Lab environment using Oracle Virtual Box and creating users via PowerShell. It's designed to help you understand the fundamentals of Active Directory and Windows networking.
 <br />
 
 
