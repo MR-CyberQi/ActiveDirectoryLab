@@ -34,7 +34,7 @@ Server 2022: <br/>
 
 <h2>Logical Diagram:<h2/>
 <p align="center">
-Network Diagram <b>
+<b>
   <img src="https://imgur.com/qlsMQkR.png" height="60%" width="60%" alt="Downloads"/>
 </b>
   
